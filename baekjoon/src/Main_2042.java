@@ -47,7 +47,9 @@ public class Main_2042{
         if(left <= start && end <= right) return tree[node];
 
         int mid = (start + end)/2;
-        return sum(start, mid,node*2,left,right) + sum(mid + 1, end,node*2+1,left,right);
+        long leftSum = sum(start, mid, node*2, left, right);
+        long rightSum = sum(mid+1, end, node*2+1, left, right);
+        return leftSum + rightSum;
     }
 
     private static void update(int start, int end, int node, int idx, long dif) {
