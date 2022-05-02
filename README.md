@@ -1,60 +1,7 @@
 # 알고리즘
 
-## 커밋 메시지 규칙
+## 재미있는 문제 모음
 
-소스코드 : 알고리즘 분류(ex 세그먼트 트리, 백트래킹, 시뮬 ㆍㆍㆍ)
+[HashMap + UnionFind](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
-리뷰 : 문제를 리뷰한 이유(ex 코테 출제 문제 ㆍㆍㆍ)
-
-## 계획
-
-### 카테고리(Gold 이상)
-
-* 구현
-* 시뮬레이션 
-* 재귀
-* 백트래킹
-* 그래프
-* 분할 정복
-* 세그먼트 트리
-* 자료구조
-* 두 포인터
-* 이분탐색
-* 삼분탐색
-* 트리
-* MST
-* 슬라이딩 윈도우
-* 분리집합
-* 비트마스킹
-* 조합론
-* 정렬
-* 위상 정렬
-* 다 익스트라 
-* 플루이드 와샬
-* 벨만 포드
-* 크루스칼 / 프림
-* 문자열
-* kmp
-* ad-hoc
-
-어려운 문제는 꼭 리뷰하기
-
-## 알고리즘 배경지식
-
-### 참고 서적 : 종만북
-
-[정리 폴더 보기]()
-
-## 백준
-
-[소스 폴더 보기](https://github.com/pia2011/Algoritm/tree/main/baekjoon/src)
-
-[리뷰 폴더 보기](https://github.com/pia2011/Algoritm/tree/main/baekjoon/%EB%A6%AC%EB%B7%B0)
-
-## 프로그래머스
-
-[소스 폴더 보기]()
-
-## 알고스팟
-
-[소스 폴더 보기]()
+[Array + Matrix](https://leetcode.com/problems/smallest-string-with-swaps/)
